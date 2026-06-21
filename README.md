@@ -1,16 +1,95 @@
-# React + Vite
+# 🚀 Personal Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive single-page portfolio website built to showcase my skills, projects, and journey as a developer.
 
-Currently, two official plugins are available:
+## 🌐 About the Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+This portfolio is a Single Page Application (SPA) created to present my technical skills, projects, and contact information in a clean and interactive way.
 
-## React Compiler
+The website is designed to be responsive and user-friendly so it works well on desktop, tablet, and mobile devices.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🛠️ Technologies Used
 
-## Expanding the ESLint configuration
+### Frontend
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- Tailwind CSS
+- JavaScript
+- HTML5
+- CSS3
+
+### Backend
+
+- Node.js
+
+## ✨ Features
+
+- Responsive design
+- Single Page Application (SPA)
+- Modern UI
+- Skills section
+- Projects section
+- About Me section
+- Contact section
+- Smooth animations
+- Reusable React components
+
+## 📂 Project Structure
+
+```text
+src/
+├── assets/
+├── components/
+├── data/
+├── sections/
+├── App.jsx
+└── main.jsx
+```
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/bhawanimokawat/Portfolio.git
+```
+
+Move into the project folder:
+
+```bash
+cd Portfolio
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Start the development server:
+
+```bash
+npm run dev
+```
+
+## 🎯 Purpose
+
+This project was built to:
+
+- Showcase my technical skills.
+- Display my projects.
+- Practice React component architecture.
+- Improve responsive UI development.
+- Build a professional online presence.
+
+## 👨‍💻 Author
+
+**Bhawani Mokawat**
+
+BCA Student | Aspiring Full Stack Developer
+
+GitHub: https://github.com/bhawanimokawat
+
+ 
+
+⭐ If you like this project, feel free to star the repository.
