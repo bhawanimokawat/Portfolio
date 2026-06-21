@@ -2,7 +2,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import profile from "../assets/profile.png";
 import profile2 from "../assets/profile2.png";
-import profile3 from "../assets/profile3.png";
+import profile3 from "../assets/Profile3.png";
 import { FaReact, FaNodeJs } from "react-icons/fa";
 import { SiMongodb, SiTailwindcss } from "react-icons/si";
 import { useTheme } from "../context/ThemeContext";
