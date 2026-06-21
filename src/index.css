@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+
+html.light {
+  --bg: #ffffff;
+  --text: #1a1a1a;
+  --accent: #2563eb;
+}
+
+html.dark {
+  --bg: #020919;
+    
+  --text: #f1f5f9;
+  --accent: #38bdf8;
+}
+
+html.solarized {
+  --bg: #0c0205;
+  --text: white;
+  --accent: rgb(3, 196, 45);
+}
+
+/* Apply globally */
+body {
+  background-color: var(--bg);
+  color: var(--text);
+}
+
+ html {
+  scroll-behavior: smooth;
+}
+ 
