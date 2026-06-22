@@ -11,7 +11,7 @@ const projects = [
       "Responsive Notes website.",
 
     tech: [
-      "React", "Tailwind", "Node.js",
+      "React", "Bootstrap", "Node.js",
       "MongoDB Atlas",
       "Mongoose",
       "Express.js",
@@ -20,9 +20,9 @@ const projects = [
       "Authentication"
     ],
 
-    github: "https://github.com/bhawanimokawat/To-do-list-",
+    github: "https://github.com/bhawanimokawat/Addnotes",
 
-    demo: "to-do-list-xi-nine-95.vercel.app",
+    demo: "https://addnotes-nbkd.vercel.app/",
   },
 
   {
